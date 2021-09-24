@@ -1,0 +1,146 @@
+body {
+    background-color: gray;
+}
+
+:root {
+    --warnahitam: rgb(39, 20, 20);
+}
+
+.judul {
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+    background-color: black;
+    padding: 30px 30px 30px 30px;
+    color: lightgreen;
+    width: 700px;
+    max-width: 800px;
+    border:5px ridge lightgreen;
+}
+
+.gambar {
+    background-color: rgb(12, 12, 68);
+    padding: 60px 60px 60px 60px;
+    margin: 60px 60px 60px 60px;
+    border: 5px ridge black;
+    width: 400px;
+    max-width: 500px;
+    height: 300px;
+    max-height: 400px;
+    margin: 10px;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+* {
+    font-family: "sourcesanspro", cursive;
+}
+
+* {
+    font-weight: 700;
+}
+
+* {
+    line-height: 30px;
+}
+
+.perkenalan {
+    background-color: var(--warnahitam);
+    font-size: 23px;
+    color: lightgreen;
+    text-align: center;
+    border: 3px ridge black;
+    margin: 5px;
+}
+
+.perkenalan>.perkenalan1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.format {
+    background-color: var(--warnahitam);
+    font-size: 23px;
+    color: lightgreen;
+    text-align: center;
+    border: 3px ridge black;
+    margin: 5px;
+}
+
+.format>.format1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.pendidikan {
+    background-color: var(--warnahitam);
+    font-size: 23px;
+    color: lightgreen;
+    text-align: center;
+    border: 3px ridge black;
+    margin: 5px;
+}
+
+.pendidikan>.pendidikan1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.pengalaman {
+    background-color: var(--warnahitam);
+    font-size: 23px;
+    color: lightgreen;
+    text-align: center;
+    border: 3px ridge black;
+    margin: 5px;
+
+}
+
+.pengalaman>.pengalaman1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.pengalaman2 ol {
+    width: 800px;
+    margin: auto;
+}
+
+.skill {
+    background-color: var(--warnahitam);
+    font-size: 23px;
+    color: lightgreen;
+    text-align: center;
+    border: 3px ridge black;
+    margin: 5px;
+}
+
+.skill>.skill1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.skill2 ol {
+    width: 800px;
+    margin: auto;
+}
+
+.Ins {
+    background-color: var(--warnahitam);
+    font-size: 23px;
+    color: lightgreen;
+    text-align: center;
+    border: 3px ridge black;
+    margin: 5px;
+}
+
+.Ins>.Ins1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.Ins2 ul {
+    width: 800px;
+    margin: auto;
+}
